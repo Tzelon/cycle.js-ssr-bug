@@ -1,5 +1,5 @@
 # cycle.js-ssr-bug
-reproducing example for cyclejs#750
+reproducing example for [cyclejs#750](https://github.com/cyclejs/cyclejs/issues/750)
 
 
 # Use:
